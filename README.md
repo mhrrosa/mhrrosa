@@ -1,5 +1,8 @@
 ### Olá, sou o MATHEUS ROSA
 
+◇ 🧑‍💻 Analista de Sistemas na PUCPR
+◇ 👨‍🎓 Cursando Engenharia de Software na PUCPR
+
 
 <div>
 <a href="https://github.com/mhrrosa">
