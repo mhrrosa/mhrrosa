@@ -10,7 +10,7 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhrrosa&layout=compact&langs_count=7&theme=dracula"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mhrrosa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mhrrosa)](https://github.com/mhrrosa/github-readme-stats)
+
 </div>
 
   
@@ -30,6 +30,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" height="30" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" height="30" width="40"/>        
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" height="30" width="40"/>
+  
+  [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mhrrosa)](https://github.com/anuraghazra/github-readme-stats)
+
           
   ![Snake animation](https://github.com/mhrrosa/mhrrosa/blob/output/github-contribution-grid-snake.svg)
  
