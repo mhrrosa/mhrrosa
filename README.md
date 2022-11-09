@@ -1,6 +1,7 @@
 ### Olá, sou o MATHEUS ROSA
 
 ◇ 🧑‍💻 Analista de Sistemas na PUCPR
+<br>
 ◇ 👨‍🎓 Cursando Engenharia de Software na PUCPR
 
 
