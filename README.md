@@ -31,7 +31,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" height="30" width="40"/>        
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" height="30" width="40"/>
   
-  [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mhrrosa)](https://github.com/anuraghazra/github-readme-stats)
 
           
   ![Snake animation](https://github.com/mhrrosa/mhrrosa/blob/output/github-contribution-grid-snake.svg)
