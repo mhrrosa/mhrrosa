@@ -2,11 +2,11 @@
 
 <div>
   
-● 💻 Analista de Sistemas na PUCPR
+-- 💻 Analista de Sistemas na PUCPR
 <br>
-● 📚 Cursando Engenharia de Software na PUCPR
+-- 📚 Cursando Engenharia de Software na PUCPR
 <br>
-● 📧 Matheushr135@gmail.com
+-- 📧 Matheushr135@gmail.com
 
 </div>
 <div>
