@@ -1,9 +1,8 @@
 <h1> Olá, sou o MATHEUS ROSA</h1>
 
 <div>
--- 💻 Analista de Sistemas na PUCPR
 <br>
--- 📚 Cursando Engenharia de Software na PUCPR
+-- 📚 Engenheiro de Software
 <br>
 -- 📧 Matheushr135@gmail.com
 <br>
